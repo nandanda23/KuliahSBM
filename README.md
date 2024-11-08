@@ -19,12 +19,3 @@ result3 <- matrix1 + matrix2
 
 # Divide the matrices
 result4 <- matrix1 + matrix2
-
-# Print results
-print("the result of Addition of is:")
-print(result1)
-print("the result of Substraction of is:")
-print(result2)
-print("the result of Multiplication of is:")
-print(result3)
-print("the result of Division of is:")
